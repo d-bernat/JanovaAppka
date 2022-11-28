@@ -35,7 +35,7 @@ namespace JanovaAppka
         {
             InitializeComponent();
 
-            MainButton.Content = "Nahodiť udičku";
+            MainButton.Content = "Nahodiť udičku!";
         }
 
         private void OnClick(object sender, RoutedEventArgs e)
