@@ -29,7 +29,8 @@ namespace JanovaAppka
             "Trt s makom ...",
             "Vôbec nič ...",
             "Ale že totálna ničota ...",
-            "Celé zle, discusy nie sa ..."
+            "Celé zle, discusy nie sa ...",
+            "Ale ony sa casom zletia..."
         };
         public MainWindow()
         {
